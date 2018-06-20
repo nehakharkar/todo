@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "37536392251",
+    "firebase_url": "https://todoapp-5da81.firebaseio.com",
+    "project_id": "todoapp-5da81",
+    "storage_bucket": "todoapp-5da81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37536392251:android:92794ef6c4bc820e",
+        "android_client_info": {
+          "package_name": "com.edu.usf.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37536392251-4np6l3841vfl0bh3s02u2bim9jn7s275.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "37536392251-4np6l3841vfl0bh3s02u2bim9jn7s275.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV389wZbbYv9c4_JwoYMkYh7zGwIlTH_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37536392251:android:547eb4e0c295b311",
+        "android_client_info": {
+          "package_name": "com.usf.edu.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37536392251-4np6l3841vfl0bh3s02u2bim9jn7s275.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "37536392251-4np6l3841vfl0bh3s02u2bim9jn7s275.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV389wZbbYv9c4_JwoYMkYh7zGwIlTH_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37536392251:android:f94a33abe72dcf52",
+        "android_client_info": {
+          "package_name": "edu.usf.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37536392251-4np6l3841vfl0bh3s02u2bim9jn7s275.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "37536392251-4np6l3841vfl0bh3s02u2bim9jn7s275.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV389wZbbYv9c4_JwoYMkYh7zGwIlTH_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
